@@ -40,7 +40,6 @@ export default tseslint.config(
         },
       ],
       'import/no-unresolved': ['error', { commonjs: true, amd: true }],
-      'import/named': 'off',
       'import/namespace': 'off',
       'import/no-named-as-default-member': 'off',
       'import/no-duplicates': 'error',
